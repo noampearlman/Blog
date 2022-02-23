@@ -1,4 +1,4 @@
-  =>  Template Name    : Bloggy - Personal Blog Template
+  =>  Template Name    : Noam's Awesome Website
 
   =>  Template Link    : https://htmlcodex.com/personal-blog-template
 
